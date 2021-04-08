@@ -1,5 +1,5 @@
 # for readthedocs
-Django == 2.2.9
+Django == 2.2.20
 django-fluent-contents == 2.0.5
 django-fluent-utils == 2.0.1
 django-mptt == 0.10.0
